@@ -1,4 +1,4 @@
 site :opscode
 
 cookbook 'newrelic'
-cookbook 'chef-golang'
+cookbook 'golang', '~> 1.5.0'
