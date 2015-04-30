@@ -1,4 +1,4 @@
 site :opscode
 
 cookbook 'newrelic'
-cookbook 'golang', '~> 1.5.0'
+cookbook 'jruby', '~> 0.2.5'
